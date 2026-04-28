@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/intro-to-java-nomad-2025/Hww/Hww.iml" filepath="$PROJECT_DIR$/intro-to-java-nomad-2025/Hww/Hww.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro-to-java-nomad-2025/beecrowd/beecrowd.iml" filepath="$PROJECT_DIR$/intro-to-java-nomad-2025/beecrowd/beecrowd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro-to-java-nomad-2025/game/game.iml" filepath="$PROJECT_DIR$/intro-to-java-nomad-2025/game/game.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro-to-java-nomad-2025/intro-to-java-nomad-2025.iml" filepath="$PROJECT_DIR$/intro-to-java-nomad-2025/intro-to-java-nomad-2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro-to-java-nomad-2025/lab-01/lab-01.iml" filepath="$PROJECT_DIR$/intro-to-java-nomad-2025/lab-01/lab-01.iml" />
